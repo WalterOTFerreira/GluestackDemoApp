@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2023,
+ * Walter de Oliveira Tenorio Ferreira, Thiago Lopes da Silva
+ */
 import React, {useState} from 'react';
 import RodapeCadastroButtons from './RodapeCadastroButtons';
 import RodapeCadastroModalCancelar from './RodapeCadastroModalCancelar';

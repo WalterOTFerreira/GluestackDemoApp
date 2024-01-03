@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2023,
+ * Walter de Oliveira Tenorio Ferreira, Thiago Lopes da Silva
+ */
 import React from 'react';
 import {
   Modal,
